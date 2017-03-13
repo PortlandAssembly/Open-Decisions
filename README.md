@@ -1,3 +1,6 @@
+**Open Decisions**
+An Open Source Decision Making Model for Society
+
 **Background**
 
 We are an open spokescouncil, designed to welcome the organizing people of Portland — with new people and groups always arriving, with profoundly different perspectives, experiences, needs, values, ideas. This diversity is valuable, a source of wealth.
