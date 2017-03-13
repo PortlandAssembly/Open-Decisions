@@ -1,4 +1,5 @@
 **Open Decisions**
+
 An Open Source Decision Making Model for Society
 
 **Background**
